@@ -25,6 +25,7 @@ Focused on simplicity and detail, it brings management and employees on a produc
 
 * **Alex Anthis** - [AlexAnth](https://github.com/AlexAnth)
 * **Chris Trikalis** - [TrikalisChristos](https://github.com/ChristosTrikalis)
+* **Konstantinos Makrygiannis** - [kmakrygiannis11](https://github.com/kmakrygiannis11)
 
 
 
