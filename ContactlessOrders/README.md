@@ -1,4 +1,4 @@
-# Contactless Orders Management API - Spring Boot Application  
+# Contactless Orders - Management API - Spring Boot Application  
 
 This project aims on offering a collaborative platform for people working in the restaurant / bar service industry. 
 Focused on simplicity and detail, it brings management and employees on a productive and prosperous working state in order to improve efficiency in service.
