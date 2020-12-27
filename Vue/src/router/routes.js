@@ -7,6 +7,8 @@ const Dashboard = () => import(/* webpackChunkName: "dashboard" */"@/pages/Dashb
 const Profile = () => import(/* webpackChunkName: "common" */ "@/pages/Profile.vue");
 const Notifications = () => import(/* webpackChunkName: "common" */"@/pages/Notifications.vue");
 const TableList = () => import(/* webpackChunkName: "common" */ "@/pages/TableList.vue");
+const OrderList = () => import(/* webpackChunkName: "common" */ "@/pages/Orders.vue");
+
 
 const routes = [
   {
@@ -33,6 +35,11 @@ const routes = [
         path: "table-list",
         name: "table-list",
         component: TableList
+      },
+      {
+        path: "order-list",
+        name: "order-list",
+        component: OrderList
       }
     ]
   },

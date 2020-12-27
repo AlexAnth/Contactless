@@ -116,6 +116,7 @@
     "dashboard": "dashboard",
     "notifications": "Notifications",
     "userProfile": "User Profile",
-    "tableList": "Table List"
+    "tableList": "Table List",
+    "orderList": "Order List"
   }
 }
